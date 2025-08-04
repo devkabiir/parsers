@@ -2,8 +2,9 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
 // Authors:
-//  Adam Singer (financecoding@gmail.com)
-//  Paul Brauner (polux@google.com)
+//   Adam Singer (financecoding@gmail.com)
+//   Paul Brauner (polux@google.com)
+//   Dinesh Ahuja (dev@kabiir.me)
 
 library mini_ast;
 

@@ -6,8 +6,7 @@ authors:
 description: >
   Parser combinators for Dart. Parser combinators let you write complex parsers
    by combining smaller, less complex parsers.
-homepage: https://github.com/polux/parsers
-documentation: http://goo.gl/ZNqdEH
+homepage: https://github.com/devkabiir/parsers
 environment:
   sdk: '>=2.0.0 <3.0.0'
 dependencies:

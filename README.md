@@ -1,7 +1,6 @@
 # Parser Combinators for Dart
 
-Check out the [user guide](http://polux.github.io/parsers/) 
-(work in progress) and the [API reference](http://polux.github.io/parsers/dartdoc/parsers.html).
+Writing parsers can but fun and readable. This is a fork of polux/parsers with Dart 2.0 support and various test/bug fixes.
 
 ## Quick Start
 
@@ -37,7 +36,7 @@ main() {
 ```
 
 See the
-[example](https://github.com/polux/parsers/tree/master/example)
+[example](https://github.com/devkabiir/parsers/tree/master/example)
 directory for advanced usage.
 
 ## About
